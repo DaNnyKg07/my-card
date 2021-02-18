@@ -120,6 +120,13 @@ class MyApp extends StatelessWidget {
                           Clipboard.setData(new ClipboardData(text: _copy));
                         },
                       ),
+                      subtitle: Text(
+                        "long press to copy",
+                        style: TextStyle(
+                          fontFamily: 'SourceSansPro',
+                          fontSize: 15,
+                        ),
+                      ),
                     ),
                   ),
                   Card(
