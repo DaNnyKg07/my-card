@@ -15,5 +15,8 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-### Screenshot
+## Screenshot
 <img src="Images/my-card-ss.jpg" width="250">
+
+## Gif
+<img src="Gif/mycard-record.gif" width="250">
